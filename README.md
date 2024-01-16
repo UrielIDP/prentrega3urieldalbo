@@ -1,4 +1,4 @@
-Pagina web de Rosas Sandillú, Julián para el curso de Python de Coderhouse
+Pagina web de Uriel Dalbopara el curso de Python de Coderhouse
 
 Las funcionalidades de la página y la forma de actuar es la siguiente:
 
